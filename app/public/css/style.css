@@ -11,3 +11,7 @@ h3 {
 p {
     font-size: 1.25em;
 }
+
+jumbotron {
+    text-align: center;
+}
